@@ -88,7 +88,7 @@ This project demonstrates a complete ETL (Extract, Transform, Load) pipeline and
 
 ## 📊 Visualization
 
-We visualize the collected weather data using bar charts for easy comparison. The charts below are shown side-by-side for better visual impact.
+We visualize the collected weather data using bar charts for easy comparison.
 
 <div style="display: flex; justify-content: space-around;">
 
